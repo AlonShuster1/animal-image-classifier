@@ -23,14 +23,6 @@ dog, cat, horse, cow, sheep, elephant, butterfly, chicken, spider, squirrel
 - Google Colab (GPU)
 - matplotlib for visualizations
 
-## How to run
-
-1. Clone the repo
-2. Install dependencies: `pip install torch torchvision matplotlib tqdm pillow requests`
-3. Open the notebook in Google Colab and run the cells in order
-
-The notebook downloads the dataset automatically from Google Drive.
-
 ## Results
 
 | Model | Test Accuracy |
